@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{AA563F03-07B2-6387-8496-CBDFDD596598}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/controller.cs">
+    <Files>
+      <File FileName="Assets/controller.cs" Line="47" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Game 1" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="controller.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Game 1" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="5d04e11a-3263-459b-b473-5fa9fff6a012" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
